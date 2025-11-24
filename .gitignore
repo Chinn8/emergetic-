@@ -4,6 +4,13 @@
 .idea/
 .vscode/
 
+# Large files
+*.zip
+*.msi
+ziDWXTap
+mongodb*
+*.pack
+
 # Dependencies
 node_modules/
 /node_modules
